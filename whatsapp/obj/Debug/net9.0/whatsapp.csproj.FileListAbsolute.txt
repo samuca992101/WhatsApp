@@ -1,0 +1,15 @@
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\bin\Debug\net9.0\whatsapp.exe
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\bin\Debug\net9.0\whatsapp.deps.json
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\bin\Debug\net9.0\whatsapp.runtimeconfig.json
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\bin\Debug\net9.0\whatsapp.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\bin\Debug\net9.0\whatsapp.pdb
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.AssemblyInfoInputs.cache
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.AssemblyInfo.cs
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.csproj.CoreCompileInputs.cache
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.sourcelink.json
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\refint\whatsapp.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.pdb
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\whatsapp.genruntimeconfig.cache
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\whatsapp\obj\Debug\net9.0\ref\whatsapp.dll
