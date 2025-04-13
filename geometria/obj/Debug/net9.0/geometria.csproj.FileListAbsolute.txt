@@ -26,3 +26,4 @@ C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\r
 C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.pdb
 C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.genruntimeconfig.cache
 C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\ref\geometria.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.sourcelink.json
