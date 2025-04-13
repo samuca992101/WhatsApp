@@ -1,0 +1,28 @@
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.AssemblyInfoInputs.cache
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.AssemblyInfo.cs
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.csproj.CoreCompileInputs.cache
+C:\Windows\System32\geometria\bin\Debug\net9.0\geometria.exe
+C:\Windows\System32\geometria\bin\Debug\net9.0\geometria.deps.json
+C:\Windows\System32\geometria\bin\Debug\net9.0\geometria.runtimeconfig.json
+C:\Windows\System32\geometria\bin\Debug\net9.0\geometria.dll
+C:\Windows\System32\geometria\bin\Debug\net9.0\geometria.pdb
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.dll
+C:\Windows\System32\geometria\obj\Debug\net9.0\refint\geometria.dll
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.pdb
+C:\Windows\System32\geometria\obj\Debug\net9.0\geometria.genruntimeconfig.cache
+C:\Windows\System32\geometria\obj\Debug\net9.0\ref\geometria.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\bin\Debug\net9.0\geometria.exe
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\bin\Debug\net9.0\geometria.deps.json
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\bin\Debug\net9.0\geometria.runtimeconfig.json
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\bin\Debug\net9.0\geometria.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\bin\Debug\net9.0\geometria.pdb
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.AssemblyInfoInputs.cache
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.AssemblyInfo.cs
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.csproj.CoreCompileInputs.cache
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\refint\geometria.dll
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.pdb
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\geometria.genruntimeconfig.cache
+C:\Users\sbras\OneDrive\Área de Trabalho\faculdade\geometria\obj\Debug\net9.0\ref\geometria.dll
